@@ -20,6 +20,8 @@ We use:
 
 Follow these steps one by one:
 
+##python version:- 3.9
+
 ### Create .env File
 
 Create a `.env` file in the root directory of your project with the following content:
